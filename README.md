@@ -240,7 +240,7 @@ Please cite the paper in the following format if you use this survey during your
 
 ## Citation
 
-Please cite the paper in the following format if you use this repository during your research.
+### Please cite the paper in the following format if you use this repository during your research.
 
 ```bibtex
 @misc{MirageCoTFaithfulnessSurvey26,
