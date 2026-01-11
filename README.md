@@ -1,4 +1,4 @@
-# The Mirage of Explainability: A Survey on Chain-of-Thought Faithfulness in Large Language Models
+# A Survey on Chain-of-Thought Faithfulness in Large Language Models
 
 ![Awesome](https://awesome.re/badge-flat2.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
