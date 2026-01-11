@@ -232,3 +232,26 @@ We tag mitigation approaches by the dominant lever:
 ## License
 
 This project is released under the MIT License (see `LICENSE`).
+
+## Reference
+
+Please cite the paper in the following format if you use this survey during your research.
+---
+
+## Citation
+
+Please cite the paper in the following format if you use this repository during your research.
+
+```bibtex
+@misc{MirageCoTFaithfulnessSurvey26,
+  author       = {Xi Jin and
+                  LeChen Qi and
+                  Houfeng Wang and
+                  Liangming Pan},
+  title        = {{The Mirage of Explainability: A Survey on Chain-of-Thought Faithfulness in Large Language Models}},
+  howpublished = {Submitted to ARR, for commitment to ACL 2026 (January 2026 cycle)},
+  year         = {2026},
+  month        = {Jan},
+  note         = {Last modified: 07 Jan 2026. License: CC BY 4.0.},
+  url          = {}
+}
