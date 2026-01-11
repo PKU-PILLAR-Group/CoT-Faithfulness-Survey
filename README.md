@@ -237,11 +237,6 @@ This project is released under the MIT License (see `LICENSE`).
 
 Please cite the paper in the following format if you use this survey during your research.
 ---
-
-## Citation
-
-### Please cite the paper in the following format if you use this repository during your research.
-
 ```bibtex
 @misc{MirageCoTFaithfulnessSurvey26,
   author       = {Xi Jin and
