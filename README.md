@@ -236,6 +236,7 @@ This project is released under the MIT License (see `LICENSE`).
 ## Reference
 
 Please cite the paper in the following format if you use this survey during your research.
+
 ---
 ```bibtex
 @misc{MirageCoTFaithfulnessSurvey26,
@@ -250,3 +251,4 @@ Please cite the paper in the following format if you use this survey during your
   note         = {Last modified: 07 Jan 2026. License: CC BY 4.0.},
   url          = {}
 }
+
